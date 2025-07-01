@@ -1,0 +1,15 @@
+#libraries for azure machine learning
+azureml-core
+mlflow
+azure-ai-ml
+
+#libraries for azure identiy and access management
+azure-identity
+
+#libraries for normal stuff
+numpy
+pandas
+matplotlib
+scikit-learn
+
+

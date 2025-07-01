@@ -10,7 +10,8 @@ Practical demonstrations of Azure Machine Learning pipelines, from simple "Hello
 
 ## Available Demos
 
-- **`helloworld.ipynb`**: Basic pipeline introduction (start here)
+- **`presentation.ipynb`**: Comprehensive AzureML overview - SDK, compute, environments, data, and pipelines (complete demo)
+- **`helloworld.ipynb`**: Basic pipeline introduction
 - **`catsanddogs.ipynb`**: Building and training Convolutional Neural network for image classification. MLFlow experiment tracking.
 - **`yolosam.ipynb`**: Computer vision with YOLO and SAM
 - **Additional**: Workspace setup, pipeline templates, testing
